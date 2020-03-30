@@ -24,6 +24,10 @@
             <name>shengchaojie</name>
             <email>shengchaojie@163.com</email>
         </developer>
+        <developer>
+            <name>jiangzihao</name>
+            <email>zihaojiang@163.com</email>
+        </developer>
     </developers>
 
     <scm>
